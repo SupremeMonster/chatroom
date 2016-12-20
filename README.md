@@ -1,5 +1,5 @@
-# chatroom-demo
-## 非常简单的socket.io聊天室
-### 1.克隆代码到本地后，进入根目录执行node server
-### 2.打开浏览器，访问localhost:8080/room/1即可
-### 3.如果要打开多个聊天室，则开启多个浏览器tab,访问localhost/room/:d(:d表示所有数字)
+# chatroom
+## 
+### 代码基本可以实现简单的聊天室功能 
+### 此案例是模仿 __<< node实战 >>__ 这本书中中的原型，目的是为了对websocket有基本的认识，了解与传统Http协议原理的不同之处。
+
